@@ -22,11 +22,10 @@ Player Actions: During your turn, you can choose one of the following actions:
 - Split (SP): If your first two cards have the same value, split them into two separate hands.
 - Surrender (Q): Surrender the hand, losing half of your bet.
 
-Dealer's Turn:
-Once you have completed your actions, the dealer reveals the hidden card and draws cards until reaching at least 17 points.
+Dealer's Turn: Once you have completed your actions, the dealer reveals the hidden card and draws cards until reaching at least 17 points.
 
 Determining the Outcome:
--If your hand exceeds 21, you bust.
--If the dealer busts, you win.
--If neither busts, the hand with the higher total wins.
-In the event of a tie, your bet is returned.
+- If your hand exceeds 21, you bust.
+- If the dealer busts, you win.
+- If neither busts, the hand with the higher total wins.
+- In the event of a tie, your bet is returned.
